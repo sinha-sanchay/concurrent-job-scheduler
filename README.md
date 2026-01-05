@@ -36,4 +36,3 @@ Notes:
 - Job execution order is non-deterministic due to concurrency.
 - The system guarantees controlled parallelism and completion of all submitted jobs.
 
-Author: Sanchay Sinha
